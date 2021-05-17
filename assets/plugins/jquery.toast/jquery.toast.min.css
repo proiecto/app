@@ -1,0 +1,198 @@
+/**
+* ====================================================================
+* Copyright 1997, 2021. Proiecto, C. A. Todos los derechos reservados.
+* Proiecto, Proiecto BackOffice, Proiecto BackOffice Server, Proiecto Salomón
+* y Proiecto Web Services, son marcas registradas de Proiecto, C. A.
+* El eslogan: 'Plataforma de servicios en la nube', es marca registrada de
+* Proiecto, C. A. Otros productos citados son marcas registradas de sus
+* respectivos propietarios y/o fabricantes.
+* Producto desarrollado por Edward Ocando con licencia para uso exclusivo de
+* Proiecto, C. A. Para más información visite https://www.proiecto.net, ó 
+* si lo desea, puede escribir a: 
+* info@proiecto.net, ventas@proiecto.net ó soporte@proiecto.net
+* ====================================================================
+* THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+* EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+* MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+* NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+* LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+* OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+* WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* ====================================================================
+*/
+@charset "utf-8";
+
+.jq-toast-wrap,
+.jq-toast-wrap * {
+	margin: 0;
+	padding: 0
+}
+
+.jq-toast-wrap {
+	display: block;
+	position: fixed;
+	width: 350px;
+	pointer-events: none !important;
+	letter-spacing: normal;
+	z-index: 9000 !important
+}
+
+@media screen and (max-width:600px) {
+
+	/* por debajo de 600px hacer esto.... */
+	.jq-toast-wrap {
+
+		/* top-center */
+		width: 94%;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+
+}
+
+.jq-toast-wrap.bottom-left {
+	bottom: 20px;
+	left: 20px
+}
+
+.jq-toast-wrap.bottom-right {
+	bottom: 20px;
+	right: 40px
+}
+
+.jq-toast-wrap.top-left {
+	top: 20px;
+	left: 20px
+}
+
+.jq-toast-wrap.top-right {
+	top: 20px;
+	right: 40px
+}
+
+.jq-toast-single {
+	display: block;
+	width: 100%;
+	padding: 10px;
+	margin: 0 0 5px;
+	border-radius: 4px;
+	font-size: 12px;
+	font-family: arial, sans-serif;
+	line-height: 17px;
+	position: relative;
+	pointer-events: all !important;
+	background-color: #444;
+	color: #fff
+}
+
+.jq-toast-single h2 {
+	font-family: arial, sans-serif;
+	font-size: 14px;
+	margin: 0 0 7px;
+	background: 0 0;
+	color: inherit;
+	line-height: inherit;
+	letter-spacing: normal
+}
+
+.jq-toast-single a {
+	color: #eee;
+	text-decoration: none;
+	font-weight: 700;
+	border-bottom: 1px solid #fff;
+	padding-bottom: 3px;
+	font-size: 12px
+}
+
+.jq-toast-single ul {
+	margin: 0 0 0 15px;
+	background: 0 0;
+	padding: 0
+}
+
+.jq-toast-single ul li {
+	list-style-type: disc !important;
+	line-height: 17px;
+	background: 0 0;
+	margin: 0;
+	padding: 0;
+	letter-spacing: normal
+}
+
+.close-jq-toast-single {
+	position: absolute;
+	top: 3px;
+	right: 7px;
+	font-size: 14px;
+	cursor: pointer
+}
+
+.jq-toast-loader {
+	display: block;
+	position: absolute;
+	top: -2px;
+	height: 5px;
+	width: 0;
+	left: 0;
+	border-radius: 5px;
+	background: red
+}
+
+.jq-toast-loaded {
+	width: 100%
+}
+
+.jq-has-icon {
+	padding: 10px 10px 10px 50px;
+	background-repeat: no-repeat;
+	background-position: 10px
+}
+
+.jq-icon-info {
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAA3NCSVQICAjb4U/gAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxEAAAsRAX9kX5EAAAAPdEVYdFRpdGxlAFJlbWluZGVyO5McIhcAAAAcdEVYdFNvZnR3YXJlAEFkb2JlIEZpcmV3b3JrcyBDUzbovLKMAAACTElEQVRIS9WUQUhUURSG36Kg7QQFLWzxQNwMROgiJVpomxYtQmxRUAvhBUFqq5EIV0a2aWVJ4SokQkQYSkMqRGvRQkUIWk2LmCnDwIbKhiI63e/gHd88z6uR3DTwwZvz7v3/c8675wYiUjdTvUEGrHdpmME0So8vvgHrXRpmMEk+1xAuDnfkPs73izOQydyRaPRMU2itTWIG4zjhLrKuFMbk58q0gtHi7c61pwNtkbUnjhn0aNYvr8mvLwubfJ4RzNaXBqQ00a7VWHs9ZhCeDB4OaQcZJ8Ux/ZA/LeUXnVrJSHQotV1mEHzPEUQYI5/5u0fnpXi/VcoP29ToT1WYQXAG4ytzPSqIuLx/oM/l+XMqXrybldV7jb5N45YGmEHAQNvgBMn82/INKU+dkq/5rBSG9iurowfU7N8MnKg3+DTZrlnviMHz68fqNpi41PyfG7ip3p6B+2XqNSiNtWgF7DG1tgTcQj4aR7Tyqk+PJkc0blC8dVDhmVngqFKFZVL7Z0OcCf5euCw/Sjd1yPwUy9srGmeCaQ1guj57NNWk+nChcY+KM6WVpW7NnszVwIGZN+C9Grhho0XMBib+e3Ts3TSpGgy1Zo5zryBcFfeZu+e4OJC5n2ZvQGXPBk/K2X27u7YYbJhE01dPrFEFFxofl2uC7H0FQAL+yng93FKFvU7jTrxNNQbgygv7s7siFnI62ARk5vExoCWsJeumIGhO6tX8SUImblPIRoS8KILEIPlRk5hBC0TjBtYaCzNoQaZOmNZFf8s6jhncOST4DUBHSSeSfJ3+AAAAAElFTkSuQmCC);
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.jq-icon-warning {
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAA3NCSVQICAjb4U/gAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxEAAAsRAX9kX5EAAAAPdEVYdFRpdGxlAFJlbWluZGVyO5McIhcAAAAcdEVYdFNvZnR3YXJlAEFkb2JlIEZpcmV3b3JrcyBDUzbovLKMAAACTElEQVRIS9WUQUhUURSG36Kg7QQFLWzxQNwMROgiJVpomxYtQmxRUAvhBUFqq5EIV0a2aWVJ4SokQkQYSkMqRGvRQkUIWk2LmCnDwIbKhiI63e/gHd88z6uR3DTwwZvz7v3/c8675wYiUjdTvUEGrHdpmME0So8vvgHrXRpmMEk+1xAuDnfkPs73izOQydyRaPRMU2itTWIG4zjhLrKuFMbk58q0gtHi7c61pwNtkbUnjhn0aNYvr8mvLwubfJ4RzNaXBqQ00a7VWHs9ZhCeDB4OaQcZJ8Ux/ZA/LeUXnVrJSHQotV1mEHzPEUQYI5/5u0fnpXi/VcoP29ToT1WYQXAG4ytzPSqIuLx/oM/l+XMqXrybldV7jb5N45YGmEHAQNvgBMn82/INKU+dkq/5rBSG9iurowfU7N8MnKg3+DTZrlnviMHz68fqNpi41PyfG7ip3p6B+2XqNSiNtWgF7DG1tgTcQj4aR7Tyqk+PJkc0blC8dVDhmVngqFKFZVL7Z0OcCf5euCw/Sjd1yPwUy9srGmeCaQ1guj57NNWk+nChcY+KM6WVpW7NnszVwIGZN+C9Grhho0XMBib+e3Ts3TSpGgy1Zo5zryBcFfeZu+e4OJC5n2ZvQGXPBk/K2X27u7YYbJhE01dPrFEFFxofl2uC7H0FQAL+yng93FKFvU7jTrxNNQbgygv7s7siFnI62ARk5vExoCWsJeumIGhO6tX8SUImblPIRoS8KILEIPlRk5hBC0TjBtYaCzNoQaZOmNZFf8s6jhncOST4DUBHSSeSfJ3+AAAAAElFTkSuQmCC);
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.jq-icon-error {
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAA3NCSVQICAjb4U/gAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxEAAAsRAX9kX5EAAAAPdEVYdFRpdGxlAFJlbWluZGVyO5McIhcAAAAcdEVYdFNvZnR3YXJlAEFkb2JlIEZpcmV3b3JrcyBDUzbovLKMAAACTElEQVRIS9WUQUhUURSG36Kg7QQFLWzxQNwMROgiJVpomxYtQmxRUAvhBUFqq5EIV0a2aWVJ4SokQkQYSkMqRGvRQkUIWk2LmCnDwIbKhiI63e/gHd88z6uR3DTwwZvz7v3/c8675wYiUjdTvUEGrHdpmME0So8vvgHrXRpmMEk+1xAuDnfkPs73izOQydyRaPRMU2itTWIG4zjhLrKuFMbk58q0gtHi7c61pwNtkbUnjhn0aNYvr8mvLwubfJ4RzNaXBqQ00a7VWHs9ZhCeDB4OaQcZJ8Ux/ZA/LeUXnVrJSHQotV1mEHzPEUQYI5/5u0fnpXi/VcoP29ToT1WYQXAG4ytzPSqIuLx/oM/l+XMqXrybldV7jb5N45YGmEHAQNvgBMn82/INKU+dkq/5rBSG9iurowfU7N8MnKg3+DTZrlnviMHz68fqNpi41PyfG7ip3p6B+2XqNSiNtWgF7DG1tgTcQj4aR7Tyqk+PJkc0blC8dVDhmVngqFKFZVL7Z0OcCf5euCw/Sjd1yPwUy9srGmeCaQ1guj57NNWk+nChcY+KM6WVpW7NnszVwIGZN+C9Grhho0XMBib+e3Ts3TSpGgy1Zo5zryBcFfeZu+e4OJC5n2ZvQGXPBk/K2X27u7YYbJhE01dPrFEFFxofl2uC7H0FQAL+yng93FKFvU7jTrxNNQbgygv7s7siFnI62ARk5vExoCWsJeumIGhO6tX8SUImblPIRoS8KILEIPlRk5hBC0TjBtYaCzNoQaZOmNZFf8s6jhncOST4DUBHSSeSfJ3+AAAAAElFTkSuQmCC);
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.jq-icon-success {
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAA3NCSVQICAjb4U/gAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAACxEAAAsRAX9kX5EAAAAPdEVYdFRpdGxlAFJlbWluZGVyO5McIhcAAAAcdEVYdFNvZnR3YXJlAEFkb2JlIEZpcmV3b3JrcyBDUzbovLKMAAACTElEQVRIS9WUQUhUURSG36Kg7QQFLWzxQNwMROgiJVpomxYtQmxRUAvhBUFqq5EIV0a2aWVJ4SokQkQYSkMqRGvRQkUIWk2LmCnDwIbKhiI63e/gHd88z6uR3DTwwZvz7v3/c8675wYiUjdTvUEGrHdpmME0So8vvgHrXRpmMEk+1xAuDnfkPs73izOQydyRaPRMU2itTWIG4zjhLrKuFMbk58q0gtHi7c61pwNtkbUnjhn0aNYvr8mvLwubfJ4RzNaXBqQ00a7VWHs9ZhCeDB4OaQcZJ8Ux/ZA/LeUXnVrJSHQotV1mEHzPEUQYI5/5u0fnpXi/VcoP29ToT1WYQXAG4ytzPSqIuLx/oM/l+XMqXrybldV7jb5N45YGmEHAQNvgBMn82/INKU+dkq/5rBSG9iurowfU7N8MnKg3+DTZrlnviMHz68fqNpi41PyfG7ip3p6B+2XqNSiNtWgF7DG1tgTcQj4aR7Tyqk+PJkc0blC8dVDhmVngqFKFZVL7Z0OcCf5euCw/Sjd1yPwUy9srGmeCaQ1guj57NNWk+nChcY+KM6WVpW7NnszVwIGZN+C9Grhho0XMBib+e3Ts3TSpGgy1Zo5zryBcFfeZu+e4OJC5n2ZvQGXPBk/K2X27u7YYbJhE01dPrFEFFxofl2uC7H0FQAL+yng93FKFvU7jTrxNNQbgygv7s7siFnI62ARk5vExoCWsJeumIGhO6tX8SUImblPIRoS8KILEIPlRk5hBC0TjBtYaCzNoQaZOmNZFf8s6jhncOST4DUBHSSeSfJ3+AAAAAElFTkSuQmCC);
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.plugin-options label {
+	display: inline-block;
+	width: 265px
+}
+
+span.toast-position span.k {
+	display: inline
+}
+
+.toast-index .muted {
+	display: block;
+	color: #AD9D9D
+}
+
+.toast-index .muted:hover {
+	color: #333
+}
+
+.latest-update {
+	padding: 0px 30px;
+	border: 1px dashed;
+	margin: 30px 0;
+	box-sizing: border-box
+}

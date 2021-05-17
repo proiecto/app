@@ -1,0 +1,146 @@
+/**
+* ====================================================================
+* Copyright 1997, 2021. Proiecto, C. A. Todos los derechos reservados.
+* Proiecto, Proiecto BackOffice, Proiecto BackOffice Server, Proiecto Salomón
+* y Proiecto Web Services, son marcas registradas de Proiecto, C. A.
+* El eslogan: 'Plataforma de servicios en la nube', es marca registrada de
+* Proiecto, C. A. Otros productos citados son marcas registradas de sus
+* respectivos propietarios y/o fabricantes.
+* Producto desarrollado por Edward Ocando con licencia para uso exclusivo de
+* Proiecto, C. A. Para más información visite https://www.proiecto.net, ó 
+* si lo desea, puede escribir a: 
+* info@proiecto.net, ventas@proiecto.net ó soporte@proiecto.net
+* ====================================================================
+* THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+* EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+* MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+* NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+* LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+* OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+* WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* ====================================================================
+*/
+@charset "utf-8";
+
+html{
+  display: none;  
+}
+
+body {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  line-height: 1.4;
+
+  color:#181818;
+  
+  /* background-color: #F8F8F8; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: background 1.0s ease-in-out;
+}
+
+
+p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
+
+#mainSignin{
+  width: 350px;
+  background-color: rgba(245, 245, 245, 0.75);
+
+  border-color: #343a40 !important;
+  border: 2px solid #dee2e6 !important;
+  border-radius: 0.45rem !important;
+  transition: all 300ms;
+  /* display: none; */
+}
+
+
+
+.formSignin {
+  width: 100%;
+  max-width: 330px;
+  padding: 10px;
+  margin: auto;
+}
+
+.formSignin .checkbox {
+  font-weight: 400;
+}
+
+.formSignin .form-control {
+  position: relative;
+  box-sizing: border-box;
+  /* height: auto; */
+  /* padding: 6px; */
+  /* font-size: 14px; */
+  font-size: 1rem;
+}
+
+.formSignin .form-control:focus {
+  z-index: 2;
+}
+
+.formSignin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.formSignin input[type="password"] {
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+
+#spanTitleLogin{
+  font-size: 1.1rem;
+  color:#294569;
+  background-color: transparent;
+}
+
+
+#comboSeleccionarIdioma{
+  width: 310px;
+}
+
+
+#spanEmpresa{
+  width: 312px;
+  color:#0864A5;
+}
+
+#spanServicio{
+  width: 312px;
+  color:#0864A5;
+}
+
+
+
+
+
+
+
+
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}

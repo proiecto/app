@@ -1,0 +1,68 @@
+/**
+* ====================================================================
+* Copyright 1997, 2021. Proiecto, C. A. Todos los derechos reservados.
+* Proiecto, Proiecto BackOffice, Proiecto BackOffice Server, Proiecto Salomón
+* y Proiecto Web Services, son marcas registradas de Proiecto, C. A.
+* El eslogan: 'Plataforma de servicios en la nube', es marca registrada de
+* Proiecto, C. A. Otros productos citados son marcas registradas de sus
+* respectivos propietarios y/o fabricantes.
+* Producto desarrollado por Edward Ocando con licencia para uso exclusivo de
+* Proiecto, C. A. Para más información visite https://www.proiecto.net, ó 
+* si lo desea, puede escribir a: 
+* info@proiecto.net, ventas@proiecto.net ó soporte@proiecto.net
+* ====================================================================
+* THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+* EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+* MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+* NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+* LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+* OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+* WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* ====================================================================
+*/
+@charset "utf-8";
+
+/* ========================== regla del responsive firts ========================== */
+@media screen and (max-width:375px) {
+	/* Small devices
+	por debajo de 375px hacer esto.... */
+
+}
+
+@media screen and (max-width:576px) {
+	/* Extra small devices
+	por debajo de 576px hacer esto.... */
+
+}
+
+
+
+@media screen and (max-width:640px) {
+	/* Extra small devices
+	por debajo de 640px hacer esto.... */
+	.onlyDesktop{
+		display: none;
+	}
+}
+
+
+
+@media screen and (max-width:768px) {
+	/* Medium devices (tablets)
+	por debajo de 768px hacer esto.... */
+
+	/* quitar imagen de idiomas en resolucions pequeñas */
+
+
+}
+
+@media screen and (max-width:992px) {
+	/* por debajo de 992px hacer esto.... */
+
+}
+
+
+@media screen and (min-width:400px) and (max-width:800px) {
+	/* solamente en este rango */
+
+}

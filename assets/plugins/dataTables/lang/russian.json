@@ -1,0 +1,14 @@
+LENGUAJE
+
+<script type="text/javascript" src="jquery.dataTables.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('#example').dataTable( {
+            "language": {
+                "url": "dataTables.german.lang"
+            }
+        } );
+    } );
+</script>
+
+

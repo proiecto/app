@@ -1,0 +1,123 @@
+/**
+* ====================================================================
+* Copyright 1997, 2021. Proiecto, C. A. Todos los derechos reservados.
+* Proiecto, Proiecto BackOffice, Proiecto BackOffice Server, Proiecto Salomón
+* y Proiecto Web Services, son marcas registradas de Proiecto, C. A.
+* El eslogan: 'Plataforma de servicios en la nube', es marca registrada de
+* Proiecto, C. A. Otros productos citados son marcas registradas de sus
+* respectivos propietarios y/o fabricantes.
+* Producto desarrollado por Edward Ocando con licencia para uso exclusivo de
+* Proiecto, C. A. Para más información visite https://www.proiecto.net, ó 
+* si lo desea, puede escribir a: 
+* info@proiecto.net, ventas@proiecto.net ó soporte@proiecto.net
+* ====================================================================
+* THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+* EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+* MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+* NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+* LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+* OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+* WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* ====================================================================
+*/
+@charset "utf-8";
+
+:root {
+	--grey: #444444;
+	--azul: #294569
+}
+
+#gdpr-cookie-message {
+	position: fixed;
+	right: 30px;
+	bottom: 50px;
+	max-width: 375px;
+	/* background-color: var(--grey); */
+	background-color: rgba(68, 68, 68, 0.85);
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 6px 6px rgba(0, 0, 0, 0.25);
+	margin-left: 30px;
+	font-family: 'Dosis', 'Segoe UI', Tahoma, Geneva, Verdana, Arial, Helvetica, sans-serif
+}
+
+#gdpr-cookie-message h4 {
+	color: #FFEA80;
+	font-family: 'Dosis', 'Segoe UI', Tahoma, Geneva, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	margin-bottom: 10px
+}
+
+#gdpr-cookie-message h5 {
+	color: #FEFCDB;
+	font-family: 'Dosis', 'Segoe UI', Tahoma, Geneva, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: 500;
+	margin-bottom: 10px
+}
+
+#gdpr-cookie-message p, #gdpr-cookie-message ul {
+	color: #F0F0F0;
+	font-size: 15px;
+	line-height: 1.5em
+}
+
+#gdpr-cookie-message p:last-child {
+	margin-bottom: 0;
+	text-align: right
+}
+
+#gdpr-cookie-message li {
+	width: 49%;
+	display: inline-block
+}
+
+#gdpr-cookie-message a {
+	color: #FFEA80;
+	text-decoration: none;
+	font-size: 15px;
+	padding-bottom: 2px;
+	border-bottom: 1px dotted rgba(255, 255, 255, 0.75);
+	transition: all 0.3s ease-in
+}
+
+#gdpr-cookie-message a:hover {
+	color: #F0F0F0;
+	border-bottom-color: var(--azul);
+	transition: all 0.3s ease-in
+}
+
+#gdpr-cookie-message button, button#ihavecookiesBtn {
+	border: none;
+	background: var(--azul);
+	color: #F0F0F0;
+	font-family: 'Dosis', 'Segoe UI', Tahoma, Geneva, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	padding: 7px;
+	border-radius: 3px;
+	margin-left: 15px;
+	cursor: pointer;
+	transition: all 0.3s ease-in
+}
+
+#gdpr-cookie-message button:hover {
+	background: #F0F0F0;
+	color: var(--azul);
+	transition: all 0.3s ease-in
+}
+
+button#gdpr-cookie-advanced {
+	background: #888888;
+	color: #F0F0F0
+}
+
+#gdpr-cookie-message button:disabled {
+	opacity: 0.3
+}
+
+#gdpr-cookie-message input[type="checkbox"] {
+	float: none;
+	margin-top: 0;
+	margin-right: 5px
+}

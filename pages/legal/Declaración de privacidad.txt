@@ -1,0 +1,173 @@
+Declaración de privacidad de PROIECTO
+======================================
+
+Última actualización: Septiembre de 2020.
+
+Su privacidad es importante para nosotros. Esta declaración de privacidad explica cuáles son los datos personales que recopila PROIECTO, cómo los trata y con qué fines lo hace.
+
+PROIECTO ofrece una amplia gama de productos, entre los que se incluyen productos de servidor usados para ayudar a funcionar a empresas de todo el mundo, dispositivos de uso doméstico, software que los estudiantes emplean en su centro educativo y desarrolladores de servicios, cuya finalidad es crear y hospedar lo que está por venir. Entre las referencias a productos de PROIECTO usadas en esta declaración se encuentran los servicios, los sitios web, las aplicaciones, el software, los servidores y los dispositivos de PROIECTO.
+
+Consulte los detalles específicos de cada producto en esta declaración de privacidad, que ofrecen información adicional relevante. Esta declaración se aplica a las interacciones de PROIECTO con usted y a los productos de PROIECTO enumerados a continuación, así como a otros productos de PROIECTO en los que figure esta declaración.
+
+Datos personales que recopilamos
+================================
+PROIECTO recopila sus datos, a través de nuestras interacciones con usted y con nuestros productos, con diversos propósitos descritos a continuación, incluyendo el operar con efectividad y ofrecerle las mejores experiencias con nuestros productos. Algunos de estos datos los facilita directamente, por ejemplo, cuando crea una cuenta de PROIECTO, administra la cuenta de licencias de su organización, envía una consulta de búsqueda de Bing, se registra para un evento de PROIECTO, habla con un comando de voz a Cortana, carga un documento en OneDrive, se registra en PROIECTO 365 o se pone en contacto con nosotros para obtener soporte técnico. Algunos de ellos los obtenemos recopilando datos sobre sus interacciones, su uso y sus experiencias en relación con nuestros productos y comunicaciones.
+
+Para tratar los datos, nos basamos en diversas razones legales y permisos (denominados en ocasiones “bases jurídicas”), entre los que se encuentran su consentimiento, intereses legítimos ponderados, la necesidad de celebrar y ejecutar contratos y el cumplimiento de obligaciones legales, con diversos fines que se describen a continuación.
+
+También obtenemos datos de terceros. Protegemos los datos obtenidos de terceros conforme a los procedimientos descritos en esta declaración y a las restricciones adicionales impuestas por el origen de los datos. Estas fuentes de terceros varían con el tiempo y entre ellas se encuentran:
+
+  - Agentes de datos de los que compramos datos demográficos para complementar los datos que recopilamos.
+  -   Servicios que ponen el contenido generado por los usuarios en su servicio a disposición de otros, 
+      como comentarios de empresas locales o publicaciones en redes sociales.
+  -   Servicios de comunicación, incluyendo los proveedores de correo electrónico y las redes sociales, 
+      cuando nos concede permiso para acceder a sus datos en tales servicios o redes de terceros.
+  -   Proveedores de servicios que nos ayudan a determinan la ubicación de su dispositivo.
+  -   Asociados con los que ofrecemos servicios compartidos o entramos en actividades de marketing conjunto.
+  -   Desarrolladores que crean experiencias mediante productos de PROIECTO o para ellos.
+  -   Terceros que ofrecen experiencias a través de productos de PROIECTO, como habilidades relacionadas con Cortana.
+  -   Fuentes de acceso público, como bases de datos gubernamentales abiertas.
+
+Si representa a una organización, como puede ser una empresa o un centro educativo, que use productos de PROIECTO para empresas y desarrolladores, consulte la sección Productos para empresas y desarrolladores de esta declaración de privacidad para conocer cómo tratamos sus datos. Si es usuario final de un producto de PROIECTO o una cuenta de PROIECTO proporcionada por la organización, consulte las secciones Productos proporcionados por su organización y Cuenta de PROIECTO para obtener más información.
+
+Dispone de posibilidades de elección relativas a la tecnología que usa y los datos que comparte. Cuando se le pide que proporcione datos personales, puede no hacerlo. Muchos de nuestros productos requieren algunos datos personales para poder operar y proporcionarle un servicio. Si elige no facilitar los datos requeridos para operar y proporcionarle un producto o una función, no podrá usar dicho producto o dicha función. De igual modo, cuando necesitemos recopilar datos personales por imperativo legal, para celebrar un contrato con usted o cumplirlo y no facilite los datos, no podremos celebrar el contrato; o bien, si esto está relacionado con un producto existente que esté usando, puede que debamos suspenderlo o cancelarlo. En su momento, se lo notificaremos cuando sea el caso. Cuando facilitar los datos sea opcional y decida no compartir datos personales, las funciones que usen los datos, como la personalización, no funcionarán para usted.
+
+<b>Los datos que recopilamos dependen del contexto de sus interacciones con PROIECTO y de las elecciones que realice (incluyendo la configuración de privacidad), de los productos y funciones que use, de su ubicación y de la legislación aplicable.</b>
+
+Entre los datos que recopilamos puede que se encuentren los siguientes:
+
+  -   Nombre y datos de contacto. Su nombre y apellidos, dirección de correo electrónico, dirección postal, número de teléfono y otros datos de contacto similares.
+
+  -   Credenciales. Contraseñas, sugerencias de contraseñas e información de seguridad similar usada para la autenticación y el acceso a cuentas.
+
+  -   Datos demográficos. Datos sobre usted, como su edad, sexo, país e idioma preferido.
+
+  -   Datos de pago. Los datos para procesar pagos, como su número de instrumento de pago (por ejemplo, un número de tarjeta de crédito) y el código de seguridad asociado con su instrumento de pago.
+
+  -   Datos de suscripción y licencia. Información sobre sus suscripciones, licencias y otros derechos.
+
+  -   Datos de solución de problemas y de ayuda. Datos que facilites al contactar con PROIECTO para obtener ayuda, como los productos que usas y otros detalles que nos ayudan a proporcionar soporte técnico. Por ejemplo, datos de contacto o autenticación, el contenido de tus chats y otras comunicaciones con PROIECTO, datos sobre el estado de tu dispositivo y los productos que uses en relación con tu consulta de ayuda. Cuando contactes con nosotros, como para obtener soporte técnico, es posible que se supervisen o graben las conversaciones telefónicas o sesiones de chat con nuestros representantes.
+
+  -   Intereses y favoritos. Recopilamos datos sobre sus intereses y favoritos, como los equipos deportivos que sigue, los idiomas de programación que prefiere, las acciones por las que se interesa o las ciudades que agrega para informarse de cosas como el tiempo o el tráfico. Además de los usted proporcione explícitamente, sus intereses y favoritos pueden deducirse o derivarse de otros datos que recopilemos.
+
+  -   Datos de consumo de contenido. Información sobre contenido multimedia (por ejemplo, televisión, vídeo, música, audio, libros de texto, aplicaciones y juegos) al que puede acceder a través de nuestros productos.
+
+  -   Búsquedas y comandos. Consultas de búsqueda y comandos cuando usa productos de PROIECTO con funcionalidad de búsqueda o productividad relacionadas.
+  
+  -   Datos de voz. Sus datos de voz, como las consultas de búsqueda o los comandos por voz, que pueden incluir sonidos de fondo.
+  
+  -   Texto, entrada manuscrita y datos de escritura por teclado. Texto, entrada manuscrita, datos de escritura por teclado e información relacionada. Por ejemplo, cuando recopilamos datos de entrada manuscrita, recopilamos información sobre la ubicación del instrumento de entrada manuscrita del dispositivo.
+
+  -   Imágenes. Imágenes e información relacionada, como metadatos de imágenes. Por ejemplo, recopilamos la imagen que facilites al usar un servicio de Bing habilitado para imágenes.
+
+  -   Contactos y relaciones. Datos sobre sus contactos y relaciones, si usa un producto para compartir información con otros, administrar contactos, comunicarse con otros o mejorar su productividad.
+
+  -   Datos sociales. Información sobre las relaciones e interacciones entre usted, otras personas y organizaciones, como los tipos de participación (por ejemplo, votos del tipo "Me gusta" o "No me gusta", eventos, etc.) relacionados con personas y organizaciones.
+
+  -   Datos de ubicación. Datos sobre la ubicación de su dispositivo, que puede ser precisa o imprecisa. Por ejemplo, recopilamos datos de ubicación mediante sistemas navegación global por satélite (GNSS) (por ejemplo, GPS) y datos sobre las torres de telefonía móvil y zonas wi-fi de las inmediaciones. La ubicación puede deducirse también de la dirección IP o datos de su perfil de cuenta que indiquen dónde está ubicado con menos precisión, por ejemplo, a nivel de ciudad o código postal.
+
+  -   Contenido. Contenido de sus archivos y comunicaciones que introduzca, reciba, cree y controle. Por ejemplo, si transmite un archivo con Skype a otro usuario de Skype, tenemos que recopilar el contenido de dicho archivo para mostrárselo a usted y al otro usuario. Si recibe un correo electrónico con Outlook.com, tenemos que recopilar el contenido de ese correo electrónico con el fin de entregarlo a su bandeja de entrada, mostrárselo, permitirle que responda y almacenarlo hasta que decida eliminarlo. Otro contenido que recopilamos al proporcionarte productos incluye:
+
+  -   Comunicaciones, incluyendo audio, vídeo, texto (tecleado, escrito de forma manuscrita, dictado o generado de alguna otra forma), en mensajes, correo electrónico, llamadas, convocatoria de conferencia o chat.
+
+  -   Fotos, imágenes, canciones, películas, software y otros medios o documentos que almacenes, recuperes o proceses de alguna otra forma en nuestra nube.
+
+  -   Vídeo o grabaciones. Grabaciones de eventos y actividades en edificios, espacios comerciales y otras ubicaciones de PROIECTO. Si entra en las ubicaciones físicas de PROIECTO Store u otras instalaciones, o asiste a un evento de PROIECTO que sea grabado, puede que procesemos su imagen y sus datos de voz.
+
+  -   Comentarios y clasificaciones. Información que nos proporcione y el contenido de los mensajes que nos envíes, como comentarios, datos de encuestas y revisiones de productos que escriba.
+
+Cómo usamos los datos personales
+================================
+
+PROIECTO utiliza los datos que recopilamos para proporcionarle experiencias enriquecidas e interactivas. En particular, usamos los datos para:
+
+Proporcionar nuestros productos, lo que incluye la actualización, protección y solución de problemas, así como facilitar soporte técnico. También incluye compartir datos, cuando sea necesario para proporcionar el servicio o realizar las transacciones que solicite.
+Mejorar y desarrollar nuestros productos.
+
+Personalizar nuestros productos y hacer recomendaciones.
+Anunciarle y comercializarle, lo que incluye el envío de comunicaciones de carácter promocional, publicidad dirigida y presentarle ofertas relevantes.
+También usamos los datos para operar nuestro negocio, lo que incluye analizar nuestro rendimiento, cumplir con nuestras obligaciones legales, desarrollar nuestra capacidad de trabajo y realizar investigación.
+
+Con estos fines, combinamos los datos que recopilamos de diferentes contextos (por ejemplo, de su uso de dos productos de PROIECTO). Por ejemplo, Cortana puede usar información de su calendario para sugerir elementos de acción en un correo electrónico de llamada de atención, y PROIECTO Store usa información sobre las aplicaciones y servicios que usted usa para poder hacerle recomendaciones personalizadas. Sin embargo, hemos integrado medidas de seguridad tecnológicas y de procedimiento diseñadas para impedir ciertas combinaciones de datos, cuando así lo requieran las leyes. Por ejemplo, cuando las leyes lo requieran, almacenamos los datos que recopilamos de usted cuando no está autenticado (sin haber iniciado sesión) de forma separada de cualquier información de la cuenta que le identifique directamente, como su nombre, dirección de correo o número de teléfono.
+
+Nuestro procesamiento de datos personales para estos fines incluye métodos de procesamiento tanto automatizados como manuales (humanos). Nuestros métodos automatizados a menudo están relacionados y se admiten por nuestros métodos manuales. Por ejemplo, nuestros métodos automatizados incluyen inteligencia artificial (AI), que concebimos como un conjunto de tecnologías que permiten a los equipos percibir, aprender, razonar y ayudar en la toma de decisiones para resolver problemas de maneras similares a las de las personas. Para compilar, entrenar y mejorar la precisión de nuestros métodos automatizados de procesamiento (incluyendo IA), revisamos manualmente algunas de las predicciones e inferencias producidas por los métodos automatizados frente a los datos subyacentes de los que se realizaron las predicciones e interferencias. Por ejemplo, revisamos manualmente fragmentos breves de un pequeño muestreo de datos de voz y hemos realizado pasos para despersonalizar y mejorar nuestros servicios de voz, como el reconocimiento y la traducción.
+
+Cuando tratamos sus datos personales, lo hacemos con su consentimiento y/o según se requiera para proporcionar los productos que usa, operar nuestro negocio, cumplir con nuestras obligaciones contractuales y legales, proteger la seguridad de nuestros sistemas y clientes o cumplir con otros intereses legítimos de PROIECTO, como se describe en esta sección y en la sección Razones por las que compartimos datos personales de esta declaración de privacidad. Al transferir datos personales desde el Espacio Económico Europeo, lo hacemos conforme a diversos mecanismos legales, como se describe a continuación en la sección Dónde almacenamos y tratamos los datos personales de esta declaración de privacidad.
+
+Más información sobre los fines del tratamiento:
+
+Proporcionar nuestros productos. Usamos datos para operar nuestros productos y proporcionarle experiencias interactivas y enriquecidas. Por ejemplo, si usa OneDrive, tratamos los documentos que suba a OneDrive para permitirle recuperarlos, eliminarlos, modificarlos, reenviarlos o, en su caso, tratarlos, conforme indique, como parte del servicio. O bien, por ejemplo, si introduce una consulta de búsqueda en el motor de búsqueda de Bing, usamos dicha consulta para mostrarle los resultados de la búsqueda. Además, como las comunicaciones son propias de diversos productos, programas y actividades, usamos los datos para contactar con usted. Por ejemplo, podemos contactar con usted por teléfono, correo electrónico u otros medios, para informarle cuando una suscripción está terminando o tratar sobre su cuenta de licencias. También nos comunicamos con usted para proteger nuestros productos, por ejemplo, comunicándole que hay actualizaciones de productos disponibles.
+
+Mejora de productos. Utilizamos datos para mejorar continuamente nuestros productos, incluida la adición de nuevas funciones o funcionalidades. Por ejemplo, utilizamos informes de error para mejorar las funciones de seguridad, las consultas de búsqueda y los clics en Bing para mejorar la relevancia de los resultados de búsqueda, los datos de uso para determinar a qué funciones nuevas ha de darse prioridad y los datos de voz para mejorar la precisión del reconocimiento de voz.
+
+Personalización. Muchos productos incluyen funciones personalizadas, como recomendaciones que mejoran su productividad y disfrute. Estas funciones utilizan procesos automatizados para personalizar sus experiencias de producto, en función de los datos que tenemos sobre usted, como las deducciones que realizamos sobre usted y su uso del producto, las actividades, los intereses y la ubicación. Por ejemplo, según la configuración, si ve en un explorador películas en streaming en su dispositivo Windows, puede que le aparezca una recomendación de una aplicación de PROIECTO Store que sea más eficiente con el streaming. Si tiene una cuenta de PROIECTO y concede su permiso, podemos sincronizar su configuración en varios dispositivos. Muchos de nuestros productos ofrecen controles para deshabilitar las funciones personalizadas.
+
+Activación de productos. Usamos datos, como el tipo de dispositivo y aplicación, la ubicación y los identificadores únicos de dispositivo, la aplicación, la red y la suscripción, con el fin de activar productos que requieran activación.
+
+Desarrollo de productos. Usamos datos para desarrollar nuevos productos. Por ejemplo, usamos datos, a menudo despersonalizados, para conocer mejor las necesidades de informática y productividad de nuestros clientes, que pueden conformar el desarrollo de nuevos productos.
+Asistencia al cliente. Usamos datos para solucionar y diagnosticar problemas de los productos, reparar los dispositivos de los clientes y ofrecer otros servicios de atención y soporte técnico al cliente, por ejemplo, para ayudarnos a proporcionar, mejorar y proteger la calidad de nuestros productos, servicios y formación, y a investigar incidentes de seguridad. Los datos de registro de llamadas también se pueden usar para autenticarle o identificarle basándose en su voz, de modo que PROIECTO pueda prestar servicios de soporte técnico e investigar incidentes de seguridad.
+
+Ayuda a la protección y solución de problemas. Usamos datos para ayudar a proteger nuestros productos y solucionar sus problemas. Esto incluye el uso de datos para proteger la seguridad de nuestros productos y clientes, la detección de malware y actividades malintencionadas, la solución de problemas de rendimiento y compatibilidad, para ayudar a los clientes a sacar el máximo partido de sus experiencias, y también para notificar a los clientes la existencia de actualizaciones de nuestros productos. Esto puede incluir el uso de sistemas automatizados para detectar problemas de seguridad.
+
+Seguridad. Usamos datos para proteger la seguridad de nuestros productos y de nuestros clientes. Nuestras funciones y productos de seguridad pueden interrumpir el funcionamiento del software malintencionado y notificar a los usuarios si ha aparecido este tipo de software en sus dispositivos. Por ejemplo, algunos de nuestros productos, como Outlook u OneDrive, analizan sistemáticamente contenidos, de manera automática, para identificar posible spam, virus, acciones delictivas o direcciones URL que hayan sido marcadas como vínculos fraudulentos, de suplantación de identidad (phishing) o de software malicioso; y nos reservamos el derecho de bloquear la entrega de una comunicación o eliminar su contenido si infringe nuestros términos.
+
+Actualizaciones. Usamos los datos que recopilamos para desarrollar actualizaciones de productos y parches de seguridad. Por ejemplo, es posible que usemos información sobre las capacidades del dispositivo, como la memoria disponible, para proporcionarle un parche de seguridad o una actualización de software. Las actualizaciones y los parches están destinados a maximizar su experiencia con nuestros productos, a ayudarle a proteger la privacidad y seguridad de los datos, proporcionar nuevas funciones y garantizar el dispositivo esté listo para tratar las actualizaciones.
+
+Comunicaciones de carácter promocional. Usamos los datos que recopilamos para entregar comunicaciones de carácter promocional. Puede registrarse en suscripciones de correo electrónico y elegir si desea recibir comunicaciones de carácter promocional de PROIECTO por correo electrónico, SMS, correo físico o teléfono. Para obtener información sobre la administración de sus datos de contacto, suscripciones de correo electrónico y comunicaciones promocionales, visite la sección Cómo acceder a sus datos personales y controlarlos de esta declaración de privacidad.
+
+Ofertas relevantes. PROIECTO usa datos para proporcionarle información relevante y valiosa acerca de nuestros productos. Analizamos los datos entre una variedad de orígenes para predecir la información que sea más interesante y relevante para usted y ofrecerle dicha información en diversas formas. Por ejemplo, podemos predecir su interés en juegos y comunicarnos con usted sobre nuevos juegos que podrían gustarle.
+
+Publicidad. PROIECTO no usa lo que pueda decir en correos electrónicos, chat, videollamadas o el correo de voz, ni en sus documentos, fotos u otros archivos personales para dirigirle anuncios. Utilizamos los datos que recopilamos a través de nuestras interacciones con usted, a través de algunos de nuestros productos y en propiedades web de terceros para anunciar en nuestros productos y en propiedades de terceros. Puede que usemos procesos automatizados para ayudar a que la publicidad le resulte más relevante. Para obtener más información sobre cómo se usan sus datos con fines publicitarios, consulte la sección Publicidad de esta declaración de privacidad.
+
+Eventos y promociones de premios Usamos sus datos para administrar los eventos y las promociones de premios disponibles en las PROIECTO Store físicas. Por ejemplo, si se inscribe en una promoción de premios, podemos usar sus datos para seleccionar un ganador y darle a usted el premio si resulta ganador. O bien, si se inscribe en un taller de codificación o en un evento de juego, agregaremos su nombre a la lista de asistentes previstos.
+
+Comercio de transacciones. Usamos datos para llevar a cabo sus transacciones con nosotros. Por ejemplo, tratamos la información de pago para proporcionar a los clientes suscripciones de producto y usamos la información de contacto para entregar mercancías compradas en PROIECTO Store.
+
+Informes y operaciones empresariales. Usamos datos para analizar nuestras operaciones y realizar inteligencia empresarial. Esto nos permite tomar decisiones informadas e informar sobre el rendimiento de nuestro negocio.
+
+Protección de los derechos y la propiedad. Usamos datos para detectar y evitar el fraude, resolver disputas, hacer cumplir contratos y proteger nuestra propiedad. Por ejemplo, usamos datos para confirmar la validez de las licencias de software, para reducir la piratería. Es posible que utilicemos procesos automatizados para detectar y evitar las actividades que infrinjan nuestros derechos y los derechos de otros, como el fraude.
+
+Cumplimiento legal. Tratamos los datos para cumplir con las leyes. Por ejemplo, usamos la edad de nuestros clientes para asegurarnos de cumplir con nuestras obligaciones de proteger la privacidad infantil. También tratamos información de contacto y credenciales para ayudar a los clientes a ejercer sus derechos en materia de protección de datos.
+Investigación. Con medidas técnicas y organizativas adecuadas para proteger los derechos y libertades de los individuos, usamos datos para realizar investigaciones, incluyendo fines científicos y de interés público.
+
+Razones por las que compartimos datos personales
+================================================
+Compartimos sus datos personales con su consentimiento o cuando son necesarios para completar cualquier transacción o proporcionar cualquier producto que haya solicitado o autorizado. Por ejemplo, compartimos su contenido con terceros cuando usted nos indica que lo hagamos, como, por ejemplo, cuando envía un correo electrónico a un amigo, comparte fotos o documentos en OneDrive o vincula cuentas con otro servicio. Si usa un producto de PROIECTO proporcionado por una organización a la que esté afiliado, como puede ser un empleador o centro educativo, o usa una dirección de correo proporcionada por dicha organización para acceder a los productos de PROIECTO, compartimos determinados datos, como datos de interacción y datos de diagnóstico, para posibilitar que la organización administre los productos. Cuando facilita los datos de pago para hacer una compra, compartiremos los datos de pago con los bancos y otras entidades que tratan las transacciones de pago o presten otros servicios financieros, así como para la prevención del fraude y la reducción del riesgo de crédito.
+
+Además, compartimos datos personales entre filiales y subsidiarias controladas por PROIECTO. También compartimos datos personales con los proveedores o agentes que trabajan en nuestro nombre para los fines que se describen en esta declaración. Por ejemplo, las empresas que hemos contratado para proporcionar soporte al servicio de soporte técnico al cliente o para ayudar a proteger y garantizar la seguridad de nuestros sistemas y servicios pueden requerir acceso a datos personales para ofrecer dichas funciones. En tales casos, estas empresas deben cumplir con nuestros requisitos de privacidad y seguridad de datos y no se les permite usar los datos personales que reciben de nosotros para cualquier otro propósito. También podemos divulgar datos personales como parte de una transacción corporativa, como una fusión o una venta de activos.
+
+Por último, mantendremos, accederemos, transferiremos, divulgaremos y preservaremos datos personales, incluyendo su contenido (como el contenido de sus correos electrónicos en Outlook.com o los archivos de carpetas privadas en OneDrive), cuando creamos de buena fe que sea necesario hacerlo por alguno de los motivos siguientes:
+
+Cumplir con las leyes aplicables o responder a un proceso legal válido, incluyendo los relacionados el cumplimiento de las leyes y los de otros organismos gubernamentales.
+Proteger a nuestros clientes, por ejemplo, para evitar correo no deseado o intentos de fraude a usuarios de nuestros productos, o para ayudar a evitar la pérdida de vidas o lesiones graves de las personas.
+
+Operar y mantener la seguridad de nuestros productos, incluyendo la prevención o detención de ataques a nuestros sistemas informáticos o redes.
+Proteger los derechos o la propiedad de PROIECTO, incluyendo hacer cumplir los términos que rigen el uso de los servicios. Sin embargo, si recibimos información que indique que alguien está usando nuestros servicios para tráfico de propiedad intelectual o física robada de PROIECTO, no inspeccionaremos nosotros mismos el contenido privado del cliente, sino que remitiremos el asunto a la policía.
+
+Para obtener más información sobre los datos que divulgamos en respuesta a las solicitudes de organismos de cumplimiento de la ley y de otros organismos gubernamentales, consulte nuestra Informe de solicitudes de cumplimiento de la ley.
+
+Tenga en cuenta que algunos de nuestros productos incluyen vínculos a productos de terceros o le permiten acceder a productos de terceros cuyas prácticas de privacidad difieren de las de PROIECTO. Si proporciona datos personales a cualquiera de estos productos, sus datos se regirán por las directivas de privacidad de los mismos.
+
+Cookies y tecnologías similares
+===============================
+Las cookies son pequeños archivos de texto colocados en su dispositivo para almacenar datos que puede leer un servidor web del dominio que colocó la cookie. Estos datos son a menudo una cadena de números y letras que identifica de forma inequívoca a su equipo, pero también pueden contener otra información. Algunas cookies las colocan terceros que actúan en nuestro nombre. Usamos cookies y tecnologías similares para almacenar y seguir sus preferencias y configuración, habilitar su inicio de sesión, proporcionar publicidad basada en intereses, luchar contra el fraude, analizar cómo funcionan nuestros productos y satisfacer otros fines legítimos. Las aplicaciones de PROIECTO utilizan identificadores adicionales, como el id. de publicidad en Windows, para fines similares, y muchos de nuestros sitios web y aplicaciones también incluyen balizas web u otras tecnologías similares, como se describe a continuación.
+
+Uso que hacemos de las cookies y tecnologías similares
+
+PROIECTO usa cookies y tecnologías similares para varios propósitos, dependiendo del contexto o producto, incluyendo:
+
+Almacenamiento de sus preferencias y configuración. Usamos cookies para almacenar sus preferencias y configuración en el dispositivo y para mejorar sus experiencias. Por ejemplo, dependiendo de su configuración, si introduce su ciudad o su código postal para ver la información del tiempo o las noticias locales en un sitio web de PROIECTO, almacenamos dichos datos en una cookie para que, cuando vuelva al sitio, vea información local pertinente. El hecho de guardar sus preferencias mediante cookies, por ejemplo, su idioma preferido, evita que tenga que estar continuamente definiendo sus preferencias. En el caso de que haya rechazado la publicidad basada en intereses, almacenamos su preferencia de rechazo en una cookie de su dispositivo. De forma similar, cuando nos da su consentimiento para incluir cookies en su dispositivo, almacenamos la elección en una cookie.
+
+Inicio de sesión y autenticación. Usamos cookies para autenticarle. Cuando inicia sesión en un sitio web mediante su cuenta personal de PROIECTO, almacenamos un número de id. único y la hora a la que ha iniciado sesión, en una cookie encriptada de su dispositivo. Esta cookie le permite moverse de una página a otra dentro del sitio sin tener que iniciar sesión de nuevo en cada página. También puede guardar su información de inicio de sesión para que no tenga que iniciar sesión cada vez que vuelva al sitio.
+
+Seguridad. Usamos cookies para tratar la información que nos ayuda a proteger nuestros productos, así como a detectar fraudes y usos inadecuados.
+Almacenamiento de la información que facilita a los sitios web. Usamos cookies para recordar la información que haya compartido. Cuando proporciona información a PROIECTO, como cuando añade productos a un carro de la compra en sitios web de PROIECTO, almacenamos los datos en una cookie con la finalidad de recordar la información.
+Redes sociales. Algunos de nuestros sitios web incluyen cookies de redes sociales, incluidas aquellas que permiten a los usuarios que han iniciado sesión en el servicio de redes sociales compartir contenido a través de dicho servicio.
+
+Comentarios. PROIECTO usa cookies para permitirle facilitar comentarios en un sitio web.
+Publicidad basada en intereses. PROIECTO usa cookies para recopilar datos sobre su actividad en línea e identificar sus intereses, para que podamos ofrecerle publicidad que sea más interesante para usted. Puede renunciar a recibir publicidad basada en intereses de PROIECTO, tal y como se describe en la sección Cómo acceder a sus datos personales y controlarlos de esta declaración de privacidad. Si es necesario, solicitamos su consentimiento para usar cookies para publicidad basada en el comportamiento del usuario.
+Mostrar publicidad. PROIECTO usa cookies para registrar cuántos visitantes han hecho clic en un anuncio y registrar los anuncios que usted haya visto, por ejemplo, para que no vea el mismo anuncio reiteradamente.
+
+Análisis. Usamos cookies nuestras y de terceros, y otros identificadores, para recopilar datos de uso y rendimiento. Por ejemplo, usamos cookies para contar el número de visitantes diferentes a una página web o servicio y para desarrollar otras estadísticas sobre las operaciones de nuestros productos.
+Rendimiento. PROIECTO usa cookies para conocer y mejorar el funcionamiento de nuestros productos. Por ejemplo, usamos cookies para recopilar datos que ayudan con el equilibrio de carga; esto ayuda a asegurar que nuestros sitios web permanezcan en funcionamiento.
+

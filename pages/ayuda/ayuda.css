@@ -1,0 +1,25 @@
+/**
+* ====================================================================
+* Copyright 1997, 2021. Proiecto, C. A. Todos los derechos reservados.
+* Proiecto, Proiecto BackOffice, Proiecto BackOffice Server, Proiecto Salomón
+* y Proiecto Web Services, son marcas registradas de Proiecto, C. A.
+* El eslogan: 'Plataforma de servicios en la nube', es marca registrada de
+* Proiecto, C. A. Otros productos citados son marcas registradas de sus
+* respectivos propietarios y/o fabricantes.
+* Producto desarrollado por Edward Ocando con licencia para uso exclusivo de
+* Proiecto, C. A. Para más información visite https://www.proiecto.net, ó 
+* si lo desea, puede escribir a: 
+* info@proiecto.net, ventas@proiecto.net ó soporte@proiecto.net
+* ====================================================================
+* THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+* EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+* MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+* NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+* LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+* OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+* WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* ====================================================================
+*/
+@charset "utf-8";
+
+@font-face{font-family:'Dosis';font-style:normal;font-weight:300;src:url(/assets/fonts/dosis/Dosis-Regular.ttf) format("truetype");font-display:block}@font-face{font-family:'Kaushan Script';font-style:normal;font-weight:300;src:url(/assets/fonts/KaushanScript/KaushanScript-Regular.ttf) format("truetype");font-display:block}.fontRegular{font-family:'Dosis','Segoe UI',Tahoma,Geneva,Verdana,Arial,sans-serif;font-style:normal}.fontBold{font-family:'Dosis','Segoe UI',Tahoma,Geneva,Verdana,Arial,sans-serif;font-weight:bold}.fontItalic{font-family:'Dosis','Segoe UI',Tahoma,Geneva,Verdana,Arial,sans-serif;font-style:italic}.fontUnderline{font-family:'Dosis','Segoe UI',Tahoma,Geneva,Verdana,Arial,sans-serif;text-decoration:underline}.fontProiecto{font-family:'Kaushan Script';font-style:normal}body{overflow:hidden;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;background-color:#FFE1E1;color:#2E2F30;font-family:'Dosis','Segoe UI',Tahoma,Geneva,Verdana,Arial,sans-serif;font-size:1em;width:100%}p{margin:.5em 0em .5em 0em}ol,ul{margin-top:.5em}li{margin-bottom:.5em}ul p,ol p,dl p{margin-left:0em}blockquote.dxOverload{margin:.5em 1.5em .5em 1.5em}h1,h2,h3,h4{font-family:'Dosis','Segoe UI',Tahoma,Geneva,Verdana,Arial,sans-serif;margin-bottom:.4em;margin-top:1em;font-weight:bold}h1{font-size:1.8em;margin-top:0em}h2{font-size:1.6em}h3{font-size:1.4em}h4{font-size:1.2em}.dxH1,.dxH2,.dxH3,.dxH4{margin-left:-18px}a{color:#0000FF}a:link{color:#0000FF}a:active{color:#000080}a:visited{color:#800080}a:hover{color:#FF0000}pre{font-family:Consolas,monospace,Monaco,"Lucida Console",Terminal,'Courier New',Courier;font-size:9pt;color:#000060;margin-top:0px}code,p.example,p.sourcecode,table.sourcecode,tr.sourcecode,td.sourcecode{font-family:Consolas,monospace,Monaco,"Lucida Console",Terminal,'Courier New',Courier;font-size:1em;color:#000060}div#pagetop{margin:0px;padding:0px;background-color:#99ccff;height:44;width:100%;border-bottom:1px solid #999999}div#pagebody{margin:0px 0px 0px 0px;padding:5px 10px 0px 22px;height:90%;width:100%;overflow:auto;background-color:#FFFFFF;vertical-align:top}table#BannerTable{width:100%;height:100%;border-collapse:collapse;font-family:'Dosis','Segoe UI',Tahoma,Geneva,Verdana,Arial,sans-serif}table#BannerTable td{padding-left:8px;padding-right:8px}tr#BannerTopRow{font-style:italic;font-size:0.8em}tr#Banner2ndRow{font-weight:bold;font-size:0.8em}table.filtereditemlisttable,table.xmldoctable{width:95%;margin-top:.6em;margin-bottom:.3em;border-width:1px 1px 0px 0px;border-style:solid;border-color:#999999;background-color:#999999;font-size:1em;border-collapse:collapse}table.filtereditemlisttable th,table.filtereditemlisttable td,table.xmldoctable th,table.xmldoctable td{border-width:0px 0px 1px 1px;border-style:solid;border-color:#999999;padding:4px 6px;text-align:left;vertical-align:top}table.filtereditemlisttable th,table.xmldoctable th{background:#cccccc;vertical-align:bottom}table.filtereditemlisttable td,table.xmldoctable td{background-color:#ffffff;vertical-align:top}

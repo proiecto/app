@@ -1,0 +1,23 @@
+﻿<!doctype html><html><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><title>jQuery Inactivity User Idle Detection Example</title><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/4.5.2/minty/bootstrap.min.css"><style> body { background-color: #fafafa; } .container { margin: 150px auto; } </style></head><body><div class="container"><h1>jQuery Inactivity</h1><p class="lead">User Idle Detection Example</p><div class="alert alert-danger"><h2>Idle Detector:</h2><p class="lead">You Have Been Idle For</p><p class="lead"><span class="badge badge-info"></span></div></div><script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script><script src="src/jquery.inactivity.js"></script><script> $(document).inactivity({ timeout: 5000, mouse: true, keyboard: false, touch: false, customEvents: "", triggerAll: true, }); $(document).on("inactivity", function() { $('.badge').append('5 Seconds') }); $(document).on("activity", function(){ $('.badge').append('Active') }); </script></body></html>
+<!--
+* ====================================================================
+* Copyright 1997, 2021. Proiecto, C. A. Todos los derechos reservados.
+* Proiecto, Proiecto BackOffice, Proiecto BackOffice Server, Proiecto Salomon
+* y Proiecto Web Services, son marcas registradas de Proiecto, C. A.
+* El eslogan: 'Plataforma de servicios en la nube', es marca registrada de
+* Proiecto, C. A. Otros productos citados son marcas registradas de sus
+* respectivos propietarios y/o fabricantes.
+* Producto desarrollado por Edward Ocando con licencia para uso exclusivo de
+* Proiecto, C. A. Para más información visite https://www.proiecto.net, ó 
+* si lo desea, puede escribir a: 
+* info@proiecto.net, ventas@proiecto.net ó soporte@proiecto.net
+* ====================================================================
+* THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+* EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+* MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+* NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+* LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+* OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+* WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* ====================================================================
+-->

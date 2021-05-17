@@ -1,0 +1,41 @@
+* ====================================================================
+* Copyright 1997, 2021. Proiecto, C. A. Todos los derechos reservados.
+* Proiecto, Proiecto BackOffice, Proiecto BackOffice Server, Proiecto Salomón
+* y Proiecto Web Services, son marcas registradas de Proiecto, C. A.
+* El eslogan: 'Plataforma de servicios en la nube', es marca registrada de
+* Proiecto, C. A. Otros productos citados son marcas registradas de sus
+* respectivos propietarios y/o fabricantes.
+* Producto desarrollado por Edward Ocando con licencia para uso exclusivo de
+* Proiecto, C. A. Para más información visite https://www.proiecto.net, ó 
+* si lo desea, puede escribir a: 
+* info@proiecto.net, ventas@proiecto.net ó soporte@proiecto.net
+* ====================================================================
+* THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+* EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+* MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+* NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+* LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+* OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+* WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* ====================================================================
+* https://www.proiecto.net
+* https://www.recursolaboral.com
+*
+* https://www.facebook.com/Proiecto
+* https://twitter.com/Proiecto
+* https://www.youtube.com/c/ProiectoERP
+* https://www.linkedin.com/company/proiecto
+* ====================================================================================================
+
+
+Te damos la bienvenida a tu nueva cuenta
+
+Te damos la bienvenida a tu nueva cuenta: soporte@proiecto.net. Esta cuenta es compatible con muchos servicios de Google, pero el administrador de proiecto.net decide a qué servicios puedes acceder con ella. Para obtener consejos sobre cómo utilizar tu nueva cuenta, consulta el Centro de Ayuda de Google.
+
+Cuando uses los servicios de Google, el administrador de tu dominio podrá acceder a tu información de la cuenta soporte@proiecto.net, como los datos que almacenes con ella en los servicios de Google. Puedes obtener más información aquí o consultando la política de privacidad de tu organización, si la tiene. Puedes elegir una cuenta distinta para usar a título personal cualquiera de los servicios de Google, incluido el correo electrónico. Si tienes varias cuentas de Google, puedes gestionar cuál usas con los servicios de Google y cambiar de cuenta siempre que quieras. Tu nombre de usuario y tu imagen de perfil pueden ayudarte a comprobar si estás usando la cuenta deseada en cada momento.
+
+Si tu organización te proporciona acceso a los servicios principales de Google Workspace, el uso de dichos servicios se rige por el contrato de Google Workspace de tu organización. Cualquier otro servicio de Google que habilite tu administrador ("Servicios Adicionales") está regulado por los Términos del Servicio de Google y la Política de Privacidad de Google. Algunos Servicios Adicionales también pueden tener términos específicos del servicio. Si usas cualquiera de los servicios a los que te permita acceder tu administrador, aceptas los términos específicos de esos servicios.
+
+A continuación, haz clic en Aceptar para indicar que comprendes esta descripción del funcionamiento de tu cuenta soporte@proiecto.net y que aceptas los Términos del Servicio de Google y la Política de Privacidad de Google.
+
+[ACEPTAR]

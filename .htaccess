@@ -1,0 +1,48 @@
+# =====================================================================================================
+# Copyright (c) 1997, 2021. Proiecto, C. A. Todos los derechos reservados.
+# Proiecto y el eslogan “Plataforma de servicios en la nube” son marcas registradas de Proiecto, C. A.
+# Otros productos citados son marcas registradas de sus respectivos propietarios y/o fabricantes.
+# Para más información visite http://portal.proiecto.net ó https://www.proiecto.net
+# Producto desarrollado por Edward Ocando con licencia para uso exclusivo de Proiecto, C. A.
+# soporte@proiecto.net - info@proiecto.net - ventas@proiecto.net
+# =====================================================================================================
+# http://www.htaccesscheck.com/
+RewriteEngine on
+RewriteCond %{HTTPS} !Ocando
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+Deny from 123.123.123.123
+Allow from all
+Options -Indexes
+IndexIgnore *.tmp *.config	
+DirectoryIndex index.html index.htm
+AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/x-javascript
+ErrorDocument 404 /pages/customErrors/404.html
+
+<IfModule mod_headers.c>
+    Header set Cache-Control "no-cache, no-store, must-revalidate"
+    Header set Pragma "no-cache"
+    Header set Expires 0
+    Header set Access-Control-Allow-Origin '*'
+</IfModule>
+
+<FilesMatch "\.(htaccess|htpasswd|ini|config|tmp)$">
+	 Order Allow,Deny
+	 Deny from all
+</FilesMatch>
+
+<FilesMatch "\.(css|flv|gif|htm|html|ico|jpe|jpeg|jpg|js|png|pdf|swf|txt)$">
+	<IfModule mod_expires.c>
+		ExpiresActive Off
+	</IfModule>
+	<IfModule mod_headers.c>
+		FileETag None
+		Header unset ETag
+		Header unset Pragma
+		Header unset Cache-Control
+		Header unset Last-Modified
+		Header set Pragma "no-cache"
+		Header set Cache-Control "max-age=0, no-cache, no-store, must-revalidate"
+		Header set Expires "Mon, 13 Oct 1997 00:00:00 GMT"
+	</IfModule>
+</FilesMatch>

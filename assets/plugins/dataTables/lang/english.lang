@@ -1,0 +1,41 @@
+/**
+ * =====================================================================================================
+ * Copyright (c) 1997, 2021. Proiecto, C. A. Todos los derechos reservados.
+ * Proiecto y el eslogan “Plataforma de servicios en la nube” son marcas registradas de Proiecto, C. A.
+ * Otros productos citados son marcas registradas de sus respectivos propietarios y/o fabricantes.
+ * Producto desarrollado por Edward Ocando con licencia para uso exclusivo de Proiecto, C. A.
+ * Para más información visite http://portal.proiecto.net ó https://www.proiecto.net
+ * Si lo desea, escríbanos a: soporte@proiecto.net - info@proiecto.net - ventas@proiecto.net
+ * =====================================================================================================
+ */
+{
+    "sProcessing": "Processing...",
+    "sLengthMenu": "Show _MENU_ entries",
+    "sZeroRecords": "No matching records found",
+    "sEmptyTable": "No data available in table =(",
+    "sInfo": "Showing _START_ to _END_ of _TOTAL_ entries",
+    "sInfoEmpty": "Showing 0 to 0 of 0 entries",
+    "sInfoFiltered": "(filtered from _MAX_ total entries)",
+    "sInfoPostFix": "",
+    "sSearch": "Search:",
+    "sUrl": "",
+    "sInfoThousands": ",",
+    "sLoadingRecords": "Loading...",
+    "oPaginate":
+    {
+        "sFirst": "First",
+        "sLast": "Last",
+        "sNext": "Next",
+        "sPrevious": "Previous"
+    },
+    "oAria":
+    {
+        "sSortAscending": ": activate to sort column ascending",
+        "sSortDescending": ": activate to sort column descending"
+    },
+    "buttons":
+    {
+        "copy": "Copy",
+        "colvis": "Visibility"
+    }
+}

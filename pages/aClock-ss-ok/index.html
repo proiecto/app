@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html><html lang='es' dir='ltr'><head><meta charset="utf-8"><meta name='viewport' content='width=device-width, initial-scale=1.0'><title>Proiecto BackOffice</title><link href='https://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'><link rel="stylesheet" media="screen" href="css/main.css" /></head><body><div class="container"><div id="myclock"></div><div id="alarm1" class="alarm"><a href="javascript:void(0)" id="turnOffAlarm">ALARM OFF</a></div></div><br><br><a href="/" id="btnBack">Return</a><script language="javascript" type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script><script language="javascript" type="text/javascript" src="js/jquery.thooClock.js"></script><script language="javascript"> var intVal, myclock; $(window).resize(function() { window.location.reload() }); $(document).ready(function() { var audioElement = new Audio(""); $('#myclock').thooClock({ size: $(document).height() / 1.4, sweepingMinutes: true, sweepingSeconds: true, onAlarm: function() { $('#alarm1').show(); alarmBackground(0); document.body.appendChild(audioElement); var canPlayType = audioElement.canPlayType("audio/ogg"); if(canPlayType.match(/maybe|probably/i)) { audioElement.src = 'alarm.ogg'; } else { audioElement.src = 'alarm.mp3'; } audioElement.addEventListener('canplay', function() { audioElement.loop = true; audioElement.play(); }, false); }, showNumerals: true, brandText: 'PROIECTO', brandText2: 'Business Cloud Platform', onEverySecond: function() { }, offAlarm: function() { $('#alarm1').hide(); audioElement.pause(); clearTimeout(intVal); $('body').css('background-color', '#FCFCFC'); } }); }); $('#turnOffAlarm').click(function() { $.fn.thooClock.clearAlarm(); }); $('#set').click(function() { var inp = $('#altime').val(); $.fn.thooClock.setAlarm(inp); }); function alarmBackground(y) { var color; if(y === 1) { color = '#CC0000'; y = 0; } else { color = '#FCFCFC'; y += 1; } $('body').css('background-color', color); intVal = setTimeout(function() { alarmBackground(y); }, 100); } </script></body></html>
+<!--
+* ====================================================================
+* Copyright 1997, 2021. Proiecto, C. A. Todos los derechos reservados.
+* Proiecto, Proiecto BackOffice, Proiecto BackOffice Server, Proiecto Salomon
+* y Proiecto Web Services, son marcas registradas de Proiecto, C. A.
+* El eslogan: 'Plataforma de servicios en la nube', es marca registrada de
+* Proiecto, C. A. Otros productos citados son marcas registradas de sus
+* respectivos propietarios y/o fabricantes.
+* Producto desarrollado por Edward Ocando con licencia para uso exclusivo de
+* Proiecto, C. A. Para más información visite https://www.proiecto.net, ó 
+* si lo desea, puede escribir a: 
+* info@proiecto.net, ventas@proiecto.net ó soporte@proiecto.net
+* ====================================================================
+* THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+* EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+* MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+* NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+* LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+* OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+* WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* ====================================================================
+-->

@@ -1,0 +1,72 @@
+/**
+* ====================================================================
+* Copyright 1997, 2021. Proiecto, C. A. Todos los derechos reservados.
+* Proiecto, Proiecto BackOffice, Proiecto BackOffice Server, Proiecto Salomón
+* y Proiecto Web Services, son marcas registradas de Proiecto, C. A.
+* El eslogan: 'Plataforma de servicios en la nube', es marca registrada de
+* Proiecto, C. A. Otros productos citados son marcas registradas de sus
+* respectivos propietarios y/o fabricantes.
+* Producto desarrollado por Edward Ocando con licencia para uso exclusivo de
+* Proiecto, C. A. Para más información visite https://www.proiecto.net, ó 
+* si lo desea, puede escribir a: 
+* info@proiecto.net, ventas@proiecto.net ó soporte@proiecto.net
+* ====================================================================
+* THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+* EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+* MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+* NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+* LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+* OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+* WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* ====================================================================
+*/
+@charset "utf-8";
+
+.loadmask {
+	z-index: 8000;
+	position: absolute;
+	top: 0;
+	left: 0;
+	-moz-opacity: 0.5;
+	opacity: .50;
+	/* filter: alpha(opacity=50); */
+	/* background-color: #CCC; */
+	background-color: transparent;
+	width: 100%;
+	height: 100%;
+	zoom: 1;
+	cursor: url('/assets/css/cursors/wait.cur'), auto
+}
+
+.loadmask-msg {
+	z-index: 8100;
+	position: absolute;
+	top: 0;
+	left: 0;
+	border: 1px solid #6593cf;
+	background: #c3daf9;
+	padding: 2px
+}
+
+.loadmask-msg div {
+	padding: 10px 20px 10px 35px;
+	background: #fbfbfb url('/assets/images/loading.gif') no-repeat 10px 10px;
+	line-height: 16px;
+	border: 1px solid #a3bad9;
+	color: #222222;
+	font-family: 'Dosis', 'Segoe UI', Tahoma, Geneva, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	cursor: url('/assets/css/cursors/wait.cur'), auto
+}
+
+.masked {
+	overflow: hidden !important
+}
+
+.masked-relative {
+	position: relative !important
+}
+
+.masked-hidden {
+	visibility: hidden !important
+}

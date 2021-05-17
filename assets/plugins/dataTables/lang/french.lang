@@ -1,0 +1,41 @@
+/**
+ * =====================================================================================================
+ * Copyright (c) 1997, 2021. Proiecto, C. A. Todos los derechos reservados.
+ * Proiecto y el eslogan “Plataforma de servicios en la nube” son marcas registradas de Proiecto, C. A.
+ * Otros productos citados son marcas registradas de sus respectivos propietarios y/o fabricantes.
+ * Producto desarrollado por Edward Ocando con licencia para uso exclusivo de Proiecto, C. A.
+ * Para más información visite http://portal.proiecto.net ó https://www.proiecto.net
+ * Si lo desea, escríbanos a: soporte@proiecto.net - info@proiecto.net - ventas@proiecto.net
+ * =====================================================================================================
+ */
+
+{
+	"sEmptyTable":     "Aucune donnée disponible dans le tableau",
+	"sInfo":           "Affichage de l'élément _START_ à _END_ sur _TOTAL_ éléments",
+	"sInfoEmpty":      "Affichage de l'élément 0 à 0 sur 0 élément",
+	"sInfoFiltered":   "(filtré à partir de _MAX_ éléments au total)",
+	"sInfoPostFix":    "",
+	"sInfoThousands":  ",",
+	"sLengthMenu":     "Afficher _MENU_ éléments",
+	"sLoadingRecords": "Chargement...",
+	"sProcessing":     "Traitement...",
+	"sSearch":         "Rechercher :",
+	"sZeroRecords":    "Aucun élément correspondant trouvé",
+	"oPaginate": {
+		"sFirst":    "Premier",
+		"sLast":     "Dernier",
+		"sNext":     "Suivant",
+		"sPrevious": "Précédent"
+	},
+	"oAria": {
+		"sSortAscending":  ": activer pour trier la colonne par ordre croissant",
+		"sSortDescending": ": activer pour trier la colonne par ordre décroissant"
+	},
+	"select": {
+        	"rows": {
+         		"_": "%d lignes sélectionnées",
+         		"0": "Aucune ligne sélectionnée",
+        		"1": "1 ligne sélectionnée"
+        	}  
+	}
+}

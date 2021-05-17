@@ -1,0 +1,10 @@
+Política de cookies
+TradingView utiliza "cookies" para recopilar información estadística y otra información sobre el uso de sus servicios.
+
+Una cookie es un pequeño archivo de texto que se almacena en su navegador web y que permite a TradingView reconocerlo. Las cookies pueden ser de sesión o persistentes. Una cookie de sesión caduca automáticamente al cerrar el navegador. Una cookie persistente permanecerá hasta que finalice o borre las cookies. Las fechas de finalización se establecen en las cookies; Algunas pueden finalizar después de unos minutos, mientras que otras pueden tardar varios años.
+
+Los datos recopilados pueden incluir información sobre la dirección IP de su equipo, el tipo de navegador, el idioma, el sistema operativo, su dispositivo móvil, la autonomía o país desde el que accedió a este sitio web, la fecha y hora de la visita, la cantidad de enlaces en los que hace clic dentro de este sitio web, así como las funciones, las búsquedas que realiza y los datos que guarda en este sitio web.
+
+TradingView puede utilizar la información recopilada por diversas razones, entre otras, para la investigación, el análisis, para servir mejor a los visitantes de este sitio web, para compilar información añadida y anónima sobre el uso de este sitio web, para otras estadísticas, etc.
+
+La mayoría de los navegadores están configurados para aceptar cookies de forma predeterminada. Si lo prefiere, puede configurar su navegador de forma que se deshabiliten las cookies o para que le avise cuando se envían dichas cookies. Si las deshabilita o prefiere no aceptar una solicitud para colocar una cookie, es posible que algunas partes de este sitio web, como algunas funciones, encuestas y ofertas de venta, no funcionen correctamente y la publicidad que reciba cuando visite este sitio web no se corresponda con anuncios que se ajusten a sus intereses personales.

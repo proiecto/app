@@ -1,0 +1,287 @@
+/**
+* ====================================================================
+* Copyright 1997, 2021. Proiecto, C. A. Todos los derechos reservados.
+* Proiecto, Proiecto BackOffice, Proiecto BackOffice Server, Proiecto Salomón
+* y Proiecto Web Services, son marcas registradas de Proiecto, C. A.
+* El eslogan: 'Plataforma de servicios en la nube', es marca registrada de
+* Proiecto, C. A. Otros productos citados son marcas registradas de sus
+* respectivos propietarios y/o fabricantes.
+* Producto desarrollado por Edward Ocando con licencia para uso exclusivo de
+* Proiecto, C. A. Para más información visite https://www.proiecto.net, ó 
+* si lo desea, puede escribir a: 
+* info@proiecto.net, ventas@proiecto.net ó soporte@proiecto.net
+* ====================================================================
+* THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+* EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+* MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+* NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+* LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+* OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+* WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+* ====================================================================
+*/
+@charset "utf-8";
+
+
+
+/* ============================ */
+/* NEW VERSION */
+/* ============================ */
+
+/* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
+html {
+	box-sizing: border-box
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit
+}
+
+/* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
+html {
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%
+}
+
+body {
+	margin: 0;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+menu,
+nav,
+section {
+	display: block
+}
+
+summary {
+	display: list-item
+}
+
+audio,
+canvas,
+progress,
+video {
+	display: inline-block
+}
+
+progress {
+	vertical-align: baseline
+}
+
+a{
+	color: #fffFFF;
+}
+
+a:focus, a:hover {
+	color: #FFAE2C;
+}
+
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+	color: #ffffff;
+	text-shadow: none;
+	/* Prevent inheritance from `body` */
+	background-color: #DC6C00;
+	border: .05rem solid #DC6C00;
+}
+
+
+
+
+.w3-display-container {
+	position: relative
+}
+
+.w3-display-container:hover {
+	display: block
+}
+
+.w3-display-container:hover span.w3-display-hover {
+	display: inline-block
+}
+
+
+.w3-animate-opacity {
+	animation: opac 0.8s
+}
+
+@keyframes opac {
+	from {
+		opacity: 0
+	}
+
+	to {
+		opacity: 1
+	}
+}
+
+
+.w3-text-white,
+.w3-hover-text-white:hover {
+	color: #fff !important
+}
+
+
+.w3-display-topleft {
+	position: absolute;
+	left: 0;
+	top: 0
+}
+
+.w3-display-topright {
+	position: absolute;
+	right: 0;
+	top: 0
+}
+
+
+.w3-padding-large {
+	padding: 4px 8px !important
+}
+
+
+.w3-large {
+	font-size: 20px !important
+}
+
+.w3-medium {
+    font-size: 34px !important;
+}
+
+
+
+
+
+.w3-display-middle {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+
+	text-align: center;
+	/* text-justify: auto; */
+}
+
+.w3-jumbo {
+	font-size: 40px !important
+}
+
+
+.w3-animate-top {
+	position: relative;
+	animation: animatetop 0.4s
+}
+
+@keyframes animatetop {
+	from {
+		top: -300px;
+		opacity: 0
+	}
+
+	to {
+		top: 0;
+		opacity: 1
+	}
+}
+
+
+.w3-border-grey,
+.w3-hover-border-grey:hover,
+.w3-border-gray,
+.w3-hover-border-gray:hover {
+	border-color: #9e9e9e !important
+}
+
+
+
+.w3-center {
+	text-align: center !important
+}
+
+
+.w3-display-bottomcenter {
+	position: absolute;
+	bottom: 0;
+
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%)
+
+}
+
+
+.w3-display-bottomleft {
+	position: absolute;
+	left: 0;
+	bottom: 0
+}
+
+.w3-display-bottomright {
+	position: absolute;
+	right: 0;
+	bottom: 0
+}
+
+
+.bgimg {
+	/* background-image: url('/assets/images/portalBackground/masthead19.jpg'); */
+	min-height: 100%;
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+  	height: auto;
+}
+
+
+#piePagina {
+	width: 70%;
+}
+
+.footerCopy {
+  font-family: 'Dosis', 'Segoe UI', Tahoma, Geneva, Verdana, Arial, sans-serif;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  z-index: 100;
+  bottom: 0;
+  font-size: 1em;
+  line-height: 1.3;
+  margin-bottom: 0px;
+  display: none;
+}
+
+
+
+@media screen and (max-width:1024px) {
+	/* Small devices
+	por debajo de 1024px hacer esto.... */
+	#piePagina {
+		display: none;
+	}
+	.footerCopy {
+		display: block;
+	}
+}
+
+
+
+
+/* sobre escribe boostrap*/
+.nav-link {
+    display: inline;
+    padding: 0;
+}
+

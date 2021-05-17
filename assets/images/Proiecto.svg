@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10.83954in"
+   height="4.1422801in"
+   viewBox="0 0 275.32431 105.21392"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Proiecto.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="21.320223"
+       y="182.31668"
+       width="238.88095"
+       height="21.166668"
+       id="rect853" />
+    <rect
+       x="18.898809"
+       y="185.20833"
+       width="160.73424"
+       height="36.521496"
+       id="rect847" />
+    <rect
+       x="21.166668"
+       y="84.666664"
+       width="181.42857"
+       height="54.42857"
+       id="rect12" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="463.68992"
+     inkscape:cy="151.75949"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="721"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     units="in"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.052365,-110.5012)">
+    <text
+       xml:space="preserve"
+       id="text10"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect12);fill:#284568;fill-opacity:1;stroke:none;"
+       transform="matrix(7.0702416,0,0,6.8844252,-124.9781,-466.41477)"><tspan
+         x="21.166016"
+         y="93.895404"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#284568;fill-opacity:1">Pro</tspan><tspan
+           style="fill:#70bfd2;fill-opacity:1">i</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;font-family:'Kaushan Script';-inkscape-font-specification:'Kaushan Script, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#284568;fill-opacity:1">ecto</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text851"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8095px;line-height:1.25;font-family:Dosis;-inkscape-font-specification:'Dosis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect853);fill:#444444;fill-opacity:1;stroke:none;"
+       transform="matrix(1.0961004,0,0,1.2206428,12.970834,-35.279992)"><tspan
+         x="21.320312"
+         y="194.32531"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.8095px;font-family:Dosis;-inkscape-font-specification:'Dosis, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#444444;fill-opacity:1">Plataforma Inteligente de Servicos en la Nube</tspan></tspan></text>
+  </g>
+</svg>
